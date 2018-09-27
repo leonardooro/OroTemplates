@@ -5,9 +5,9 @@
 
 .hljs {
   display: block;
-  background: white;
+  background: #2b2b2c;
   padding: 0.5em;
-  color: #333333;
+  color: #fff;
   overflow-x: auto;
 }
 
